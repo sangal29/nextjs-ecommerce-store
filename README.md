@@ -7,8 +7,7 @@ This project demonstrates real-world e-commerce features like authentication, ca
 ---
 
 ## 🚀 Live Demo
-
-👉 Add your deployed link here
+https://nextjswebeco.netlify.app/
 
 ---
 
@@ -44,7 +43,7 @@ This project demonstrates real-world e-commerce features like authentication, ca
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/shopeasy-nextjs-ecommerce.git
-cd shopeasy-nextjs-ecommerce
+https://github.com/sangal29/nextjs-ecommerce-store.git
+nextjs-ecommerce-store
 npm install
 npm run dev
