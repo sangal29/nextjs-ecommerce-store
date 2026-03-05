@@ -3,7 +3,6 @@ import Link from 'next/link';
 
 export default function ProductCard({ product }) {
   return (
-    
     <div className='border rounded-lg p-4 shadow hover:shadow-lg transition bg-white dark:bg-gray-800'>
       {/* Clickable Area */}
       <Link href={`/product/${product.id}`}>
